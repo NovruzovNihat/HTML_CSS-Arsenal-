@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#top{
+    min-height: 15vh;
+    background-color : springgreen;  
+}
+#bottom{
+    clear: both;
+    height: 5vh;
+    background-color: red;
+}
+#center,#center1,#left,#right,#center11,#center12,#center15,#center19{
+    min-height: 80vh;
+}
+#left{
+    width: 20%;
+    background-color: darkcyan;
+}
+#right{
+    width: 15%;
+    background-color: darkgoldenrod;
+}
+#center div{
+    float: left;
+}
+#center1{
+    width: 65%;
+     background-color:Brown;  
+}
+#top1 a{
+    background-color: red;
+    color: white;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin: 25px;
+    margin-left: 34px;
+    padding: 12px 0;
+    border-radius: 25px 5px 25px 5px;
+    text-decoration: none;
+    font: italic 100 18px  'Lobster' , cursive;
+    float: left;
+}
+#top1 a:hover{
+    border-radius: 7px 29px 7px 29px;
+    background-color:cyan;
+    color: red;
+    font-style: unset;
+    font-size: 23px;
+}
+#top{
+    background-image: url(image//1920px-Emirates_Stadium_-_East_stand_Club_Level.jpg);
+    width: 100%;
+    height: 220px;
+  background-size: 100% 100%;      
+}
+#left1 img{
+    width: 100%;
+    height: 524px;
+}
+#right img{
+    width: 100%;
+   height: 524px;   
+}
+#bottom1 a{
+    text-decoration: none;
+    color: blanchedalmond;
+    float: left;
+    margin: 3px;
+    margin-left: 120px;
+}
+#bottom1 a:hover{
+    color: cornsilk;
+    background-color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.center2 img{
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+ .center3 {
+    margin: 8px;
+     color: lightyellow;
+     font-size: 24px;
+     font-weight: 100;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: italic;
+ }
+ .center3:hover{
+     background-color: rgb(21, 19, 170);
+     color: wheat;
+     font-size: 25px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 300;
+     font-style: unset; 
+ }
+ .center4{
+     margin-left: 100px; 
+     border: solid 9px darkslategrey ;
+     border-radius: 20px; 
+ }
+ .nn{
+    clear: both;
+ }
+ #center11 {
+    width: 65%;
+    background-color:rgb(129, 1, 76); 
+ }
+ .centerr{
+     margin-bottom: 5px;
+     margin-top: 3px;
+     margin-left: 300px;
+     font-size: 50px;
+     color: ghostwhite;
+     background-color: red;
+     padding: 10px;
+     border-radius: 20px;
+     font-weight: 100;
+ }
+ .centerr:hover{
+     border-radius: 35px;
+     color: red;
+     background-color: wheat;
+     font-weight: 800;
+     font-family: fantasy;
+ }
+ .centerrr img{
+     float: left;
+     margin-left: 45px;
+     margin-bottom: 8px;
+     background-color: yellowgreen;
+     border-radius: 40px;
+ }
+ .centerrr img:hover{
+     opacity: 0.7;
+ }
+.center5 img{
+    width: 140px;
+    height: 140px;
+    float: left;
+}
+.center6{
+    font-size: 20px; 
+    color: burlywood;
+    background-color: chocolate;
+    font-family: monospace;
+}
+.center6:hover{
+    color:white;
+    background-color: darkred;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#center12{
+    width: 65%;
+}
+.nnn{
+    width: 100%;
+    height: 100%;
+    background-color: darkslategrey;
+}
+.nnn1{
+    margin-bottom: 10px;
+   margin-left: 280px;
+   border-radius: 30px;
+    font-size: 50px; 
+    font-weight: 800;
+    color: whitesmoke;
+    border: solid 5px rgb(2, 3, 3);
+    background-color: rgb(48, 5, 3);
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.n2 img{
+    width: 100%;
+    height: 100%;
+}
+#center15{
+    width: 65%; 
+    background-image: url(image//ddd.jpg); 
+}
+.center17 {
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 7px;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    font-style: inherit;
+    color: mintcream;
+    background-color: black;
+    margin-left: 270px;
+    border-radius: 20px 5px 20px 5px;
+}
+.center17:hover{
+    border-radius: 5px 20px 5px 20px;
+    background-color: ghostwhite;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.center18 {
+    margin: 10px;
+    margin-left: 160px;
+    border: solid 10px aqua ;
+    border-radius: 30px;
+}
+#center19{
+    width: 65%;
+    background-color: chocolate;
+}
+
+.ee img{
+    float: left;
+    width: 200px;
+    height: 180px;
+}
+.aa{
+    color: white;
+    background-color: slateblue;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+}
+.aa:hover{
+    color: gold;
+}
+.ww img{
+    float: right;
+    width: 200px;
+    height: 180px;
+}
+.rr img{
+    float: left;
+    width: 200px;
+    height: 180px;
+}
+.bb img{
+    float: right;
+    width: 200px;
+    height: 180px;
+}
+.kk img{
+    float: left;
+    width: 200px;
+    height: 180px;
+}
+.qq img{
+    float: right;
+    width: 400px;
+    height: 300px;
+}
+
